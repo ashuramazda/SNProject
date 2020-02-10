@@ -126,7 +126,7 @@ export default class Benefit extends Component {
 const styles = StyleSheet.create({
   eventInput: {
     height: 50,
-    width: 350,
+    width: 300,
     fontSize: 20,
     borderBottomColor: '#e3e2de',
     borderBottomWidth: 3,

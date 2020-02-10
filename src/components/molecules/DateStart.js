@@ -112,7 +112,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
   },
   dateInput: {
-    width: 150,
+    width: 120,
     borderBottomColor: '#e3e2de',
     borderBottomWidth: 3,
     fontSize: 20,

@@ -53,7 +53,7 @@ const styles = StyleSheet.create({
   
   inputBox: {
     height: 150,
-    width: 350,
+    width: 300,
     fontSize: 14,
     textAlignVertical: 'top',
     borderRadius: 10,
